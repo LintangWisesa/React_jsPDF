@@ -8,9 +8,9 @@
 
 [![Video](https://img.youtube.com/vi/SpYpOTPyA6M/0.jpg)](https://youtu.be/SpYpOTPyA6M)
 
-## __:point_right: Follow these instructions:__
+## __:snowflake: Follow these instructions:__
 
-Simply clone this repo & run it!
+In this project, you can fill out the forms (select PDF size, type PDF filename, recipient, message & adding a JPG/JPEG image) to generate a PDF file. Just clone this repo & try it!
 
 ```bash
 $ git clone https://github.com/LintangWisesa/React_jsPDF.git
@@ -19,6 +19,10 @@ $ cd React_jsPDF
 
 $ npm start
 ```
+
+## __:snowflake: Screenshot:__
+
+![React_jsPDF](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
 __Done!__ :thumbsup:
 
