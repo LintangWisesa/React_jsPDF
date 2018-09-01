@@ -15,7 +15,7 @@ class App extends Component{
       pesan:'',
       tinggi:11.69,
       lebar:'08.27',
-      judul:'Lin_Download.pdf',
+      judul:'Lintang.pdf',
       gambar:'https://4.bp.blogspot.com/-89TxYwvuJyA/WxOWE4WkHPI/AAAAAAAAAiM/MBWeo995SbkEC6XQVJmtS_ZeKKZsG6MYgCLcBGAs/s400/lin.png'
     }
   }
