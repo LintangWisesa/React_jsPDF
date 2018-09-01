@@ -1,0 +1,29 @@
+{
+  "name": "kids",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.0.0",
+    "@material-ui/icons": "^1.0.0",
+    "axios": "^0.18.0",
+    "classnames": "^2.2.5",
+    "font-awesome": "^4.7.0",
+    "jspdf": "^1.4.0",
+    "primereact": "^1.5.3",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-pdf": "^3.0.5",
+    "react-redux": "^5.0.7",
+    "react-reveal": "^1.2.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.2",
+    "react-transition-group": "^2.3.1",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
