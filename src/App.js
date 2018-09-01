@@ -33,7 +33,7 @@ class App extends Component{
     doc.text(`PDF filename: ${this.state.judul}`, 0.5, 0.8)
     doc.text(`Recipient: ${this.state.nama}`, 0.5, 1.1)
     doc.text(`Message: ${this.state.pesan}`, 0.5, 1.4)
-    doc.addImage(this.state.gambar, 0.5, 2, 2.5, 2.5)
+    doc.addImage(this.state.gambar, 'JPEG', 0.5, 2, 2.5, 2.5)
     // format: (image_file, 'image_type', X_init, Y_init, X_fin, Y_fin)
 
     doc.save(`${this.state.judul}`)

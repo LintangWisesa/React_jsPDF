@@ -22,7 +22,9 @@ $ npm start
 
 ## __:snowflake: Screenshot:__
 
-![React_jsPDF](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+![React_jsPDF_1](https://raw.githubusercontent.com/LintangWisesa/React_jsPDF/master/screenshot-1.png)
+
+![React_jsPDF_2](https://raw.githubusercontent.com/LintangWisesa/React_jsPDF/master/screenshot-2.png)
 
 __Done!__ :thumbsup:
 
