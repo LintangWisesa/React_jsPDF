@@ -17,6 +17,8 @@ $ git clone https://github.com/LintangWisesa/React_jsPDF.git
 
 $ cd React_jsPDF
 
+$ npm install
+
 $ npm start
 ```
 
