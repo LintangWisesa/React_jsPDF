@@ -10,6 +10,8 @@
 
 ## __:snowflake: Follow these instructions:__
 
+Note: You need to have nodejs installed in your computer to run this app, if it is not installed already you can download it from [here](https://nodejs.org/en/).
+
 In this project, you can fill out the forms (select PDF size, type PDF filename, recipient, message & adding a JPG/JPEG image) to generate a PDF file. Just clone this repo & try it!
 
 ```bash
